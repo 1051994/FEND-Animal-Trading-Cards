@@ -1,0 +1,57 @@
+#container {
+    border: thin silver;
+    background-color : burlywood;
+    color : maroon;
+    width: 300px;
+    padding: 1em;
+    border-radius: 15px;
+    box-shadow: 3px 3px 6px 1px rgba(0, 0, 0, 0.36);
+}
+
+h1 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size : 26px;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size : 18px;
+    text-align: center;
+}
+
+#card {
+    border: thin solid chocolate;
+    width: 280px;
+    padding : 10px;
+    border-radius: 10px;
+}
+
+.image {
+    width : 300px;
+    text-align: center;
+    padding: 10px 0 15px 0;
+    border-radius: 30px;
+}
+
+#interesting-fact {
+    font-size: 15px;
+    font-weight: bold;
+    font-style : italic;
+}
+
+#facts {
+    list-style-type: none;
+    margin-left: -40px;
+    font-size: 13px;
+    font-style : normal;
+}
+
+#list-of-facts {
+    font-weight : bold;
+}
+
+#summary {
+    font-weight: bold;
+    font-size: 13px;
+}
